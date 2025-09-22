@@ -1,46 +1,71 @@
-<h1 align="center">Hi 👋, I'm Hiral Kumbhani</h1>
-<h3 align="center">🚀 A passionate Full Stack Developer from India 🇮🇳</h3>
+<!-- Header -->
+<div align="center">
+  
+# 👋 Hi, I'm **Hiral Kumbhani**  
+💻 Full Stack Developer | 🌍 India  
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node+%7C+MongoDB;Passionate+about+Clean+Code;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **MERN stack projects**
-- 🌱 I’m learning **TypeScript & Next.js**
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
-- ⚡ Fun fact: I love solving coding challenges & exploring new tech!
+- 🔭 Currently working on **MERN stack projects**  
+- 🌱 Learning **Next.js & TypeScript**  
+- 💬 Ask me about **React, Node.js, Express, MongoDB**  
+- ⚡ Fun fact: *I debug faster when coffee ☕ is nearby!*  
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,mysql,git,github,c,cpp,vscode" />
-</p>
+## 🛠️ Tech Stack
+<div align="center">
+  
+### 🖥️ Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux" />
+
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+### 🛡️ Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="streak" width="48%"/>
-</p>
+## 📊 GitHub Analytics
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=1&column=6" />
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
-<p align="center">
-  <a href="https://github.com/yourusername" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank"><img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.icons8.com/ios-filled/30/EA4335/gmail-new.png"/></a>
-</p>
+<div align="center">
+  
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/your-linkedin-id/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
